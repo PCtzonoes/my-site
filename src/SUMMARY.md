@@ -1,4 +1,4 @@
 # Summary
 
-- [intro](./intro.md)
+- [Intro](./intro.md)
 - [Resume](./resume.md)
