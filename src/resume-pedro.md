@@ -51,6 +51,15 @@ Oceansoft, Belo Horizonte / Brazil – **C# Programmer**
     Worked in a small team of seven developers delivering back-to-back applications
     Based in Entity Framework and with in-house architecture
 
+January 2019 - April 2020
+Independent Work **Game Developer**
+
+    Developed various projects to learn new technologies, frameworks, and workflows in game development.
+    Collaborated with small teams on select projects to create engaging gaming experiences.
+    Utilized C++, Unity3D, and Unreal Engine for interactive prototypes and proof-of-concept demos.
+    Created a market tool for Eve Online, providing real-time market data analysis and optimization for in-game trading.
+    Utilized APIs to gather, process market information saving data on a Node4J graph database.
+
 ### Education:
 
 **Advanced Game Technology** - Advanced Game Development Centre for Entertainment Arts – Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
