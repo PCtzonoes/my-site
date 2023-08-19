@@ -5,9 +5,11 @@
 **LinkedIn**: [linkedin.com/in/pctzonoes](https://www.linkedin.com/in/pctzonoes/)  
 **GitHub**: [github.com/PCtzonoes](https://github.com/PCtzonoes)  
 
+****
+
 ### Skills:
 
-    C#		C++		C
+    C#		C++	    	C
     Rust	Python		Lua
     .NET Core
     Unity3D		Unreal Engine
@@ -30,31 +32,29 @@
     Data Structures and Algorithms
     Team Collaboration and Communication
     Problem-Solving and Analytical Thinking
-    
-
 
 ### Experience:
 
-September 2021 – present
+_September 2021 – present_  
 Kuma Games – **Technical Game Designer**
 
-    Designing and documenting an auto-battler crypto game, updating it to keep up with design changes and have a centralized reference
+>       Designing and documenting an auto-battler crypto game, updating it to keep up with design changes and have a centralized reference
     Refactoring old systems to add flexibility in gameplay, making it easier to fine-tune
     Prototyping quick iterations to test game mechanics and feel using agile methods
     Main developer in three side projects using Unity to build WebGL games
     Maintaining and adding more CI/CD to the project with Jenkins, GitHub Actions, and Azure
 
-September 2019 – present
+_September 2019 – present_  
 Oceansoft, Belo Horizonte / Brazil – **C# Programmer**
 
-    Developed mobile apps remotely using Xamarin, created tools to increase the production of backend APIs
+>       Developed mobile apps remotely using Xamarin, created tools to increase the production of backend APIs
     Worked in a small team of seven developers delivering back-to-back applications
     Based in Entity Framework and with in-house architecture
 
-January 2019 - April 2020
+_January 2019 - April 2020_  
 Independent Work **Game Developer**
 
-    Developed various projects to learn new technologies, frameworks, and workflows in game development.
+>       Developed various projects to learn new technologies, frameworks, and workflows in game development.
     Collaborated with small teams on select projects to create engaging gaming experiences.
     Utilized C++, Unity3D, and Unreal Engine for interactive prototypes and proof-of-concept demos.
     Created a market tool for Eve Online, providing real-time market data analysis and optimization for in-game trading.
@@ -62,7 +62,7 @@ Independent Work **Game Developer**
 
 ### Education:
 
-**Advanced Game Technology** - Advanced Game Development Centre for Entertainment Arts – Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
+**Advanced Game Technology** - Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
 
     Developed advanced skills in game technology and game development practices
     Explored various game engines and technologies, including Unity and Unreal Engine
