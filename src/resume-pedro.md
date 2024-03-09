@@ -15,16 +15,12 @@
 	Unity3D             Unreal Engine
 	OOP (Object-Oriented Programming)
 	Design Patterns
-	UML (Unified Modelling Language)
 	Agile Development
 	Prototyping
 	Performance Optimization
 	Version Control (Git, Perforce)
-	Debugging and Testing
-	Cross-Platform Development
 	Multiplayer Networking - UDP gRPC and a bit of TCP
 	Scripting (Python, Lua)
-	Shader Programming - HLSL
 	3D Modeling (Blender)
 	Level Design
 	Mobile Game Development
@@ -76,24 +72,17 @@ Independent Work **Game Developer**
 - Developed games using various platforms and technologies
 - Participated in team-based projects to create interactive and engaging experiences
 
-### Additional Projects:
+### Recent Projects:
 
-**General Canastra**, Game Jam - Third Place - Lead Designer and Programmer (2018)
+#### [**Chibi Chash Survivor**](chibi.gg) - 2024
 
-- Developed a 72-hour Game Jam project with the theme "City of Cheese"
-- Sole programmer responsible for implementing game mechanics and systems
-- Defined the art style and established the mesh pipeline for the project
+Chibi Chash Survivor is a web-based game in the Survivor genre developed in Unity. The game incorporates a custom solution that utilizes Immutable blockchain with its TypeScript SDK, creating a layer that is injected into the game runtime.
 
-**Monolith**, Completion of Course Work - Lead Programmer and Designer (2017)
+In this project, I held the role of a techinical game developer, responsible for implementing various gameplay mechanics and features. Additionally, I took charge of the build and deployment processes, ensuring smooth and efficient delivery of the game to players. Furthermore, I handled API integration to enable seamless communication between the game client and external services.
 
-- Program an online FPS survival game using Unreal Engine for Windows
-- Utilized C++ and Blueprints to improve team workflow
-- Implemented animation blending, AI bots with advanced pathfinding algorithms, and an authoritative server
+#### **The Littles** - 2022
 
-**WarPortal**, Completion of Course Work - Programmer (2018)
-
-- Developed an online card game using Unity Engine for Android and Windows
-- Implemented features such as the Game Shop, Player Database with MySQL, particle effects, shaders, and pipeline
+The Littles is a Web3 project that consists of multiple mini-games designed for the web. Developed using Unity3D, the games were built with WebGL to ensure compatibility across different platforms. To enable Web3 functionality, JavaScript was embedded into the project. The Littles features a collection of four unique games, each offering its own engaging gameplay experience.
 
 ### Personal Projects:
 
