@@ -50,9 +50,18 @@ _January 2019 - April 2020_
 
 ### Education
 
-**Advanced Game Technology** - Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
+**Advanced Game Technology - Advanced Game Development Centre for Entertainment Arts**
+Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
 
 - Developed advanced skills in game technology and game development practices
 - Explored various game engines and technologies, including Unity and Unreal Engine
 - Collaborated with diverse teams on game development projects
-- Gained expertise in implementing game mechanics, protUnfortunately, as a text-based AI, I am unable to directly access external URLs or browse the internet. Therefore, I cannot access the content of the provided URL or provide you with the changed .md raw file. However, based on the information you have provided in your resume, I can still offer suggestions and feedback to improve your resume if you would like.
+- Gained expertise in implementing game mechanics, prototyping, and optimizing performance
+
+**Technologist in Game Development - PUCMG**
+2015 - 2018
+
+- Completed a comprehensive game development program with a focus on programming
+- Acquired knowledge in game design, programming, and technical art
+- Developed games using various platforms and technologies
+- Participated in team-based projects to create interactive and engaging experiences
