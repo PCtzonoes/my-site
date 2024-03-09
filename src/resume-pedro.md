@@ -1,15 +1,18 @@
 # Pedro Augusto de Almeida Soares
+
 ## Technical Game Designer/Programmer
 
 **E-mail**: pedrop6@hotmail.com.br / ppdamace@gmail.com  
 **LinkedIn**: [linkedin.com/in/pctzonoes](https://www.linkedin.com/in/pctzonoes/)  
-**GitHub**: [github.com/PCtzonoes](https://github.com/PCtzonoes)  
+**GitHub**: [github.com/PCtzonoes](https://github.com/PCtzonoes)
 
 ****
 
 ### Summary
 
-I am a Technical Game Designer/Programmer driven by a passion for challenges. With expertise in C#, C++, and game development, I am seeking exciting projects to further my career and contribute my innovative problem-solving abilities.
+I am a Technical Game Designer/Programmer driven by a passion for challenges. With expertise in C#, C++, and game
+development, I am seeking exciting projects to further my career and contribute my innovative problem-solving abilities.
+
 ### Skills
 
 - Programming Languages: C#, C++, C, Rust, Python, Lua
@@ -19,14 +22,16 @@ I am a Technical Game Designer/Programmer driven by a passion for challenges. Wi
 - Version Control: Git, Perforce
 - Networking: Multiplayer Networking - UDP gRPC, TCP
 - Scripting: Python, Lua
-- Other: dotNET Core, 3D Modeling (Blender), Level Design, Mobile Game Development, Web Game Development, Data Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking
+- Other: dotNET Core, 3D Modeling (Blender), Level Design, Mobile Game Development, Web Game Development, Data
+  Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking
 
 ### Experience
 
 **Technical Game Designer, Kuma Games**
 _September 2021 – Present_
 
-- Designing and documenting two Games, one is Chibi Survivos the second will be release later this month, updating them to keep up with design changes and have a centralized reference
+- Designing and documenting two Games, one is Chibi Survivor the second will be release later this month, updating them
+  to keep up with design changes and have a centralized reference
 - Refactoring old systems to add flexibility in gameplay, making it easier to fine-tune
 - Prototyping quick iterations to test game mechanics and feel using agile methods
 - Main developer in three side projects using Unity to build WebGL games
@@ -46,7 +51,24 @@ _January 2019 - April 2020_
 - Collaborated with small teams on select projects to create engaging gaming experiences.
 - Utilized C++, Unity3D, and Unreal Engine for interactive prototypes and proof-of-concept demos.
 - Created a market tool for Eve Online, providing real-time market data analysis and optimization for in-game trading.
-- Utilized APIs to gather, process market information-saving data on a Node4J graph database.
+- Used APIs to gather, process market information-saving data on a Node4J graph database.
+
+### Recent Projects:
+
+#### [**Chibi Clash Survivor**](chibi.gg) - 2024
+
+Chibi Clash Survivor is a web-based game in the Survivor genre developed in Unity.
+The game incorporates a custom solution that utilizes Immutable blockchain with its TypeScript SDK, creating a layer
+that is injected into the game
+runtime.  
+In this project, I held the role of a techinical game developer, responsible for implementing various gameplay mechanics
+and features. Additionally, I took charge of the build and deployment processes, ensuring smooth and efficient delivery
+of the game to players. Furthermore, I handled API integration to enable seamless communication between the game client
+and external services.
+
+#### **The Littles** - 2022
+
+The Littles is a Web3 project that consists of multiple mini-games designed for the web using unity WebGL.
 
 ### Education
 
