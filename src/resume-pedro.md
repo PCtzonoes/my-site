@@ -15,13 +15,12 @@ development, I am seeking exciting projects to further my career and contribute 
 
 ### Skills
 
-- Programming Languages: C#, C++, C, Rust, Python, Lua
+- Programming Languages: C#, C++, C, Rust, Lua
 - Game Engines: Unity3D, Unreal Engine
 - Development Practices: OOP, Design Patterns, Agile Development
 - Prototyping and Optimization: Prototyping, Performance Optimization
 - Version Control: Git, Perforce
-- Networking: Multiplayer Networking - UDP gRPC, TCP
-- Scripting: Python, Lua
+- Networking: Multiplayer Networking: UDP gRPC REST APIs
 - Other: dotNET Core, 3D Modeling (Blender), Level Design, Mobile Game Development, Web Game Development, Data
   Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking
 
@@ -42,7 +41,7 @@ _September 2019 – Present_
 
 - Developed mobile apps remotely using Xamarin, created tools to increase the production of backend APIs
 - Worked in a small team of seven developers delivering back-to-back applications
-- Based in Entity Framework and with in-house architecture
+- Based on Entity Framework and with in-house architecture
 
 **Independent Work Game Developer**
 _January 2019 - April 2020_
@@ -58,13 +57,9 @@ _January 2019 - April 2020_
 #### [**Chibi Clash Survivor**](chibi.gg) - 2024
 
 Chibi Clash Survivor is a web-based game in the Survivor genre developed in Unity.
-The game incorporates a custom solution that utilizes Immutable blockchain with its TypeScript SDK, creating a layer
+The game incorporates a custom solution that uses Immutable blockchain with its TypeScript SDK, creating a layer
 that is injected into the game
-runtime.  
-In this project, I held the role of a techinical game developer, responsible for implementing various gameplay mechanics
-and features. Additionally, I took charge of the build and deployment processes, ensuring smooth and efficient delivery
-of the game to players. Furthermore, I handled API integration to enable seamless communication between the game client
-and external services.
+runtime.
 
 #### **The Littles** - 2022
 
@@ -80,10 +75,9 @@ Kwantlen Polytechnic University Vancouver, Canada - 2020 - 2022
 - Collaborated with diverse teams on game development projects
 - Gained expertise in implementing game mechanics, prototyping, and optimizing performance
 
-**Technologist in Game Development - PUCMG**
-2015 - 2018
+**Technologist in Game Development - PUCMG** Belo Horizonte, Brazil 2015 - 2018
 
-- Completed a comprehensive game development program with a focus on programming
+- Game development program with a focus on programming
 - Acquired knowledge in game design, programming, and technical art
 - Developed games using various platforms and technologies
 - Participated in team-based projects to create interactive and engaging experiences
