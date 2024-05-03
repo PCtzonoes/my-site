@@ -14,15 +14,15 @@ Software Engineer with a focus on Game Development. Proficient in C#, C++, Rust,
 
 ### Technical Skills
 
-| Category                  | Skills                                                                 |
-|---------------------------|------------------------------------------------------------------------|
-| Programming Languages     | C#, C++, C, Rust, Lua                                                  |
-| Game Engines              | Unity3D, Unreal Engine                                                 |
-| Development Practices     | OOP, Design Patterns, Agile Development                                |
-| Prototyping and Optimization | Prototyping, Performance Optimization                               |
-| Version Control           | Git, Perforce                                                          |
-| Networking                | Multiplayer Networking, UDP, gRPC, REST APIs                           |
-| Other                     | dotNET Core, 3D Modeling (Blender), Level Design, Mobile Game Development, Web Game Development, Data Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking |
+| Category | Skills|
+| -------- | ------|
+| Programming Languages | C#, C++, C, Rust, Lua |
+| Game Engines | Unity3D, Unreal Engine |
+| Development Practices | OOP, Design Patterns, Agile Development |
+| Prototyping and Optimization | Prototyping, Performance Optimization |
+| Version Control | Git, Perforce |
+| Networking | Multiplayer Networking, UDP, gRPC, REST APIs |
+| Other | dotNET Core, App General Design, Game Development(Mobile,Web,PC), Data Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking |
 
 
 ### Experience
