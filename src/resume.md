@@ -3,8 +3,7 @@
 ## Technical game designer
 
 **E-mail**: ppdamace@gmail.com  
-**Phone number**: (236) 999-9328  
-**LinkedIn**:linkedin.com/in/pctzonoes
+**[LinkedIn](https://linkedin.com/in/pctzonoes)** | **[GitHub](https://github.com/pctzonoes)**
 
 #### HIGHLIGHTS
 
@@ -30,7 +29,15 @@ Kuma Games – Technical Game Designer**
 - Main developer in three side projects
   using Unity to build WebGL games • Maintaining and adding more CI/CD to
   the
-  project with Jenkins, GitHub Actions, and Azure
+  project with Jenkins, GitHub Actions, and Azure  
+- Developed four Unity WebGL mini-games with The Littles,
+featuring NFT-based access, high-performance programming, and
+engaging gameplay for a competitive arcade event. The Littles Playside
+Arcade.
+- Achieved recognition for Survivor as one of the Top 5 play-to-
+earn browser games for August 2024 according to the [PlayToEarn YouTube
+Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).
+
 
 **September 2019 – present  
 Oceansoft, Belo Horizonte / Brazil - C# Programmer**

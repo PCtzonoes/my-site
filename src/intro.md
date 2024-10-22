@@ -5,7 +5,9 @@ Maybe I will add some blog posts, or wasm builds, in the future.
 
 ## About me
 
-I am a game developer with a passion for game design and programming.  
-I have experience with C, C++, C#, and Unity, and I am currently learning Rust and Unreal.  
-Besides that, I am a Git aficionado, and I have experience with Perforce and SVN.  
-I know the basics of web development, and I am currently learning about CI/CD, DevOps and a bit of backend development.  
+Experienced programmer with over five years in developing Games and Apps. Demonstrated advanced
+technical expertise in dotNet Core, Unity3D and Unreal Engine (C++/Unreal Blueprints),
+with a strong focus on technical design and proper documentation.
+Proven track record in overseeing complex projects from design to successful
+launch, including creating team pipelines, adopting tools to increase productivity, and driving
+innovation in game design.
