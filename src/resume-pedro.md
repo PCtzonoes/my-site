@@ -9,7 +9,9 @@
 
 ### Summary
 
-Experienced programmer with over five years in developing Games and Apps. Proficient in C#, C++, C, Rust, and Lua. Experienced in Unity3D, Unreal Engine, and Agile Development practices. Seeking to leverage my technical skills in a challenging and innovative software development role.
+I am an experienced programmer with over five years of expertise in developing games and applications. My technical proficiency spans .NET Core, Unity3D, and Unreal Engine (C++/Unreal Blueprints), with a strong emphasis on technical design and comprehensive documentation.
+
+I have a proven track record of successfully managing complex projects from conception to launch. I excel at creating efficient team pipelines, implementing productivity-enhancing tools, and driving innovation in game design. My passion for crafting engaging user experiences fuels my commitment to continuous improvement and excellence in every project I undertake.
 
 ### Technical Skills
 
@@ -23,6 +25,9 @@ Experienced programmer with over five years in developing Games and Apps. Profic
 | Networking | Multiplayer Networking, UDP, gRPC, REST APIs |
 | Other | dotNET Core, Software Architecture, UX implementation, Game Development(Mobile,Web,PC), Data Structures and Algorithms, Team Collaboration and Communication, Problem-Solving and Analytical Thinking |
 
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
+
 ### Experience
 
 **Software Engineer, Kuma Games**
@@ -35,9 +40,9 @@ _September 2021 – Present_
 - Maintained and added more CI/CD to the project with Jenkins, GitHub Actions, and Azure
 - Developed four Unity WebGL mini-games with The Littles,
 featuring NFT-based access, high-performance programming, and
-engaging gameplay for a competitive arcade event. The Littles Playside
-Arcade.
-- Achieved recognition for Survivor as one of the Top 5 play-to-
+engaging gameplay for a competitive arcade event [The Littles Playside
+Arcade](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside).
+- Achieved recognition for [Survivor](https://chibi.gg/sso?app=survivor) as one of the Top 5 play-to-
 earn browser games for August 2024 according to the [PlayToEarn YouTube
 Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).
 
@@ -55,7 +60,7 @@ _January 2019 - April 2020_
 - Collaborated with small teams on select projects to create engaging software experiences.
 - Utilized C++, Unity3D, and Unreal Engine for interactive prototypes and proof-of-concept demos.
 - Created a market tool for Eve Online, providing real-time market data analysis and optimization for in-game trading.
-- Used APIs to gather, process market information-saving data on a Node4J graph database. -->
+- Used APIs to gather, process market information-saving data on a Node4J graph database. 
 
 ### Projects
 
@@ -65,6 +70,8 @@ Will require Login to play.
 
 [The Littles project site](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside)  
 Developed the entire process for four additional Unity WebGL mini-games in partnership with The Littles within The Littles Playside Arcade, where the games revolve around purchasing NFTs to gain access.
+
+-->
 
 ### Education
 
