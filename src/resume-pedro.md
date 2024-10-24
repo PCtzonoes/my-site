@@ -3,7 +3,7 @@
 ## Software Engineer / Technical Game Designer
 
 **E-mail**: pedrop6@hotmail.com.br / ppdamace@gmail.com  
-**[LinkedIn](https://linkedin.com/in/pctzonoes)** | **[GitHub](https://github.com/pctzonoes)** | **[Itch.io link](https://pctzonoes.itch.io/)**  
+**[LinkedIn](https://linkedin.com/in/pctzonoes)** | **[GitHub](https://github.com/pctzonoes)** | **[Itch.io](https://pctzonoes.itch.io/)**  
 
 ****
 
@@ -90,3 +90,6 @@ Belo Horizonte, Brazil 2015 - 2018
 - Acquired knowledge in game design, programming, and technical art
 - Developed games using various platforms and technologies
 - Participated in team-based projects to create interactive and engaging experiences
+
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
