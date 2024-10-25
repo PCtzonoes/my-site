@@ -1,4 +1,4 @@
-# Cover Letter Template
+# Cover Letter Pedro Soares
 
 Dear [Employer's Name],
 
