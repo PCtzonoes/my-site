@@ -34,7 +34,7 @@ Primordial Soup is a 2d puzzle game that is inside a petri dish. The Player choo
 
 My GitHub profile with some of my projects and contributions to other projects.
 
-  > [Mini engine](https://github.com/PCtzonoes/Minimal-Engine)  
+  > **[Mini engine](https://github.com/PCtzonoes/Minimal-Engine)**  
   A small engine I made to learn more about game engines and how they work.  
   > [mini rogue](https://github.com/PCtzonoes/mini-rogue)  
   A small game I made for fun in pure Rust, has an WASM version to play in the browser.
