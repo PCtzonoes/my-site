@@ -3,7 +3,9 @@
 ## [Chibi Survivor Site](https://chibi.gg/sso?app=survivor)
 
 ![survivor](images/survivor01.jpg)
-2.5D survivor game developed in Unity3D for WebGl with a focus on performance optimization and engaging gameplay.
+2.5D survivor game developed in Unity3D for WebGl with a focus on performance optimization and engaging gameplay.  
+Winner of the Top 5 play-to-earn browser games for August 2024 according to the [PlayToEarn YouTube Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).  
+Winner of best figthing game in [PlayToEarn](https://x.com/ChibiClash/status/1870561096329027954) Crypto Game Awards 2024.
 
 Will require Login to play.
 
