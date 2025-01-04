@@ -13,8 +13,9 @@
 
 ## More About Me
 
-I am an programming enthusiast with love for performance and learning new things. I prefer C style languages and have a strong background in C#, C++, and Rust, although I do like Lua.
-I like reading manuals and documentation and have a knack for breaking and rebuilding things to understand them better.
+I am a programming enthusiast with a passion for performance optimization and continuous learning. My preferred languages are C-style languages, and I have a strong background in C#, C++, and Rust. I also enjoy working with Lua for scripting tasks. I have a keen interest in reading manuals and documentation, and I love breaking and rebuilding things to understand them better.
+
+In my spare time, I enjoy exploring new technologies, contributing to open-source projects, and participating in game jams. I believe in the power of collaboration and am always looking for opportunities to work with like-minded individuals to create innovative solutions.
 
 ## Contact Me
 

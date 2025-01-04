@@ -45,6 +45,7 @@ Arcade](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside).
 - Achieved recognition for [Survivor](https://chibi.gg/sso?app=survivor) as one of the Top 5 play-to-
 earn browser games for August 2024 according to the [PlayToEarn YouTube
 Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).
+- Awarded best fighting game in [PlayToEarn](https://youtu.be/LCQhtUJknW0?t=273)'s Game Awards 2024.
 
 **Software Developer, Oceansoft**
 _September 2019 – Present_
