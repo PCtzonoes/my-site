@@ -3,7 +3,7 @@
 ## Software Engineer / Technical Game Designer
 
 **E-mail**: pedrop6@hotmail.com.br / ppdamace@gmail.com  
-**[LinkedIn](https://linkedin.com/in/pctzonoes)** | **[GitHub](https://github.com/pctzonoes)** | **[Itch.io](https://pctzonoes.itch.io/)**  
+**[LinkedIn](https://linkedin.com/in/pctzonoes)** | **[GitHub](https://github.com/pctzonoes)** | **[Itch.io](https://pctzonoes.itch.io/)** | **[Portifolio](https://pctzonoes.github.io/my-site/portfolio.html)**  
 
 ****
 
