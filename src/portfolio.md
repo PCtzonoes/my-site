@@ -8,13 +8,14 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gkI2czpAlSk?start=94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-2.5D survivor game developed in Unity3D for WebGl with a focus on performance optimization and engaging gameplay.  
-Winner of the Top 5 play-to-earn browser games for August 2024 according to the [PlayToEarn YouTube Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).  
-Winner of best figthing game in [PlayToEarn](https://youtu.be/LCQhtUJknW0?t=273) Crypto Game Awards 2024.  
+On a high level the game is a 2.5D survivor game where the player has to survive waves of enemies and bosses. The player can choose between different characters, each with their own unique abilities and weapons. The player can also upgrade their weapons and abilities by collecting resources from the enemies they defeat.
 
-Will require Login to play.
+I was responsible for designing and implementing the core gameplay mechanics, weapon system, and powers draft. I also handled the deploymenten and CI/CD pipeline for the game.
 
 ### Award
+
+Winner of the Top 5 play-to-earn browser games for August 2024 according to the [PlayToEarn YouTube Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).  
+Winner of best figthing game in [PlayToEarn](https://youtu.be/LCQhtUJknW0?t=273) Crypto Game Awards 2024.  
 
 <div style="text-align: left;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/LCQhtUJknW0?start=273" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
