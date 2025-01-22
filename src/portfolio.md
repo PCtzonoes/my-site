@@ -8,9 +8,9 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gkI2czpAlSk?start=94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-On a high level the game is a 2.5D survivor game where the player has to survive waves of enemies and bosses. The player can choose between different characters, each with their own unique abilities and weapons. The player can also upgrade their weapons and abilities by collecting resources from the enemies they defeat.
+At a high level, the game is a 2.5D survivor game where the player must survive waves of enemies and bosses. Players can choose between different characters, each with unique abilities and weapons. They can also upgrade their weapons and abilities by collecting resources from defeated enemies.
 
-I was responsible for designing and implementing the core gameplay mechanics, weapon system, and powers draft. I also handled the deploymenten and CI/CD pipeline for the game.
+I was responsible for designing and implementing the core gameplay mechanics, weapon system, and power drafts. I also handled the deployment and CI/CD pipeline for the game. The game was developed in Unity and deployed to WebGL. Additionally, I managed the integration with the blockchain, client-server communication, and data security(because of hacking issues).
 
 ### Award
 
