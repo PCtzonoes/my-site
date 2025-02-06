@@ -23,4 +23,8 @@ No license.
 ## TODO
 
 - [ ] Add the Deep Dive section to my portfolio
+  - [ ] Design documents and goals
+  - [ ] Diagrams of the systems
+  - [ ] Code snippets? (maybe)
+  - [ ] 
 - [ ] Breack some systems on a high level and use diagrams to explain them
