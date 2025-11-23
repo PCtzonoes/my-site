@@ -30,49 +30,34 @@ I have a proven track record of successfully managing complex projects from conc
 
 ### Experience
 
-**Software Engineer, Kuma Games**
-_September 2021 – Present_
+**Technical Game Designer, Animagic**  
+_May 2025 – Present_
+
+- Authored comprehensive technical design documentation using MDBook, establishing project-wide standards for system architecture documentation and knowledge transfer
+- Created detailed design documents covering combat systems, AI architectures, and skill frameworks with UML diagrams and architectural patterns
+- Developed living documentation that bridges design intent with implementation, enabling cross-functional team collaboration and onboarding
+- Maintained evolving design specifications through iterative development cycles, documenting refactors and architectural decisions
+- Responsible for integrating Unity Behavior systems (Unity6) with combat mechanics, designing enemy AI patterns, and creating scalable blackboard-based context systems
+- Combined game design expertise with software engineering to deliver flexible, maintainable gameplay systems while bridging the gap between design vision and technical execution
+
+**Technical Game Designer, Kuma Games**  
+_May 2022 – April 2025_
 
 - Designed and documented two games, updating them to keep up with design changes and have a centralized reference
 - Factored old systems to add flexibility in gameplay, making it easier to fine-tune
 - Developed UI systems to be more modular and reusable, reducing the time to implement new features and their API hooks
 - Prototyped quick iterations to test game mechanics and feel using agile methods
 - Maintained and added more CI/CD to the project with Jenkins, GitHub Actions, and Azure
-- Developed four Unity WebGL mini-games with The Littles,
-featuring NFT-based access, high-performance programming, and
-engaging gameplay for a competitive arcade event [The Littles Playside
-Arcade](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside).
-- Achieved recognition for [Survivor](https://chibi.gg/sso?app=survivor) as one of the Top 5 play-to-
-earn browser games for August 2024 according to the [PlayToEarn YouTube
-Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s).
-- Awarded best fighting game in [PlayToEarn](https://youtu.be/LCQhtUJknW0?t=273)'s Game Awards 2024.
+- Developed four Unity WebGL mini-games with The Littles, featuring NFT-based access, high-performance programming, and engaging gameplay for a competitive arcade event, [The Littles Playside Arcade](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside)
+- Achieved recognition for [Chibi Clash Survivor](https://chibi.gg/sso?app=survivor) as one of the Top 5 play-to-earn browser games for August 2024 according to the [PlayToEarn YouTube Channel](https://www.youtube.com/watch?v=QjKEqAfnCzo&t=78s)
+- Awarded best fighting game in [PlayToEarn](https://youtu.be/LCQhtUJknW0?t=273)'s Game Awards 2024
 
-**Software Developer, Oceansoft**
-_September 2019 – Present_
+**C# Developer, Oceansoft**  
+_September 2017 – September 2025_
 
 - Developed mobile apps remotely using Xamarin, created tools to increase the production of backend APIs
 - Worked in a small team of seven developers delivering back-to-back applications
 - Based on Entity Framework and with in-house architecture
-
-<!-- **Independent Software Developer**
-_January 2019 - April 2020_
-
-- Developed various projects to learn new technologies, frameworks, and workflows in software development.
-- Collaborated with small teams on select projects to create engaging software experiences.
-- Utilized C++, Unity3D, and Unreal Engine for interactive prototypes and proof-of-concept demos.
-- Created a market tool for Eve Online, providing real-time market data analysis and optimization for in-game trading.
-- Used APIs to gather, process market information-saving data on a Node4J graph database. 
-
-### Projects
-
-[Chibi Survivor Site](https://chibi.gg/sso?app=survivor)  
-2.5D survivor game developed in Unity3D for WebGl with a focus on performance optimization and engaging gameplay.  
-Will require Login to play.
-
-[The Littles project site](https://playside.thelittles.io/arcade?near=portalFromArcadeToPlayside)  
-Developed the entire process for four additional Unity WebGL mini-games in partnership with The Littles within The Littles Playside Arcade, where the games revolve around purchasing NFTs to gain access.
-
--->
 
 ### Education
 

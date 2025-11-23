@@ -1,5 +1,13 @@
 # Portfolio
 
+## [Stay Dead](https://store.steampowered.com/app/3856830/Stay_Dead/)
+
+STAY DEAD is a fast-paced roguelite game where you play as a zombie fighting back against an army of enemy robots. The game features procedurally generated levels, linear story progression, and a variety of playable characters and abilities to help you survive.
+
+Still in development, the game is set to release in 2026 on Steam for PC, switch, and other platforms.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWkW96ro-Sg" title="Stay Dead Teaser 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## [Chibi Survivor Site](https://chibi.gg/sso?app=survivor)
 
 <!-- ![survivor](images/survivor01.jpg) -->
